@@ -1,0 +1,6 @@
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\bin\Debug\Ex4.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\bin\Debug\Ex4.pdb
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\obj\Debug\Ex4.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\Ex4\obj\Debug\Ex4.pdb

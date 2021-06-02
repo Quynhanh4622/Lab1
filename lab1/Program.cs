@@ -1,4 +1,7 @@
-﻿namespace lab1
+﻿using System;
+using System.Text;
+
+namespace lab1
 {
     internal class Program
     {
