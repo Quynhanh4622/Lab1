@@ -15,14 +15,20 @@ namespace lab3.ex1
         public bool Accept()
         {
             Console.WriteLine("Enter atomic number : ");
-            this.number = Convert.ToInt32(Console.ReadLine());
+            var number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter symbol : ");
-            this.symbol = Console.ReadLine();
+            var symbol = Console.ReadLine();
             Console.WriteLine("Enter full name : ");
-            this.fullName = Console.ReadLine();
+            var fullName = Console.ReadLine();
             Console.WriteLine("Enter atomic weight : ");
-            this.weight = Convert.ToDouble(Console.ReadLine());
-            _listAtom.Add(this);
+            var weight = Convert.ToDouble(Console.ReadLine());
+            _listAtom.Add(new Atom()
+            {
+                number = number,
+                symbol = symbol,
+                fullName = fullName,
+                weight = weight
+            });
             return true;
         }
 
@@ -32,7 +38,7 @@ namespace lab3.ex1
             {
                 Atom atom = _listAtom[i];
                 // Console.WriteLine($"Number: {atom.number},Symbol: {atom.symbol},Full Name: {atom.fullName}, Weight: {atom.weight}");
-                if (_listAtom.Count < 10)
+                if (_listAtom.Count > 10)
                 {
                     Console.WriteLine("chi nhan toi da 10 phan tu: ");
                 }

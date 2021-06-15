@@ -1,0 +1,6 @@
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\bin\Debug\lab5.ex2.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\bin\Debug\lab5.ex2.pdb
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\obj\Debug\lab5.ex2.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\obj\Debug\lab5.ex2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\obj\Debug\lab5.ex2.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\lab5.ex2\obj\Debug\lab5.ex2.pdb
