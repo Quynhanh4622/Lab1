@@ -20,10 +20,5 @@ namespace lab5.ex2
             }
             return BaseSalary * SkillLevel + ((BaseSalary /10) * EnglishSkilllevel) + SeniorLecture + Bonus; 
         }
-
-        public double Calculation()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
