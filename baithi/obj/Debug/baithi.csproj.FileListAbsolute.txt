@@ -1,0 +1,6 @@
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\bin\Debug\baithi.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\bin\Debug\baithi.pdb
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\obj\Debug\baithi.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\obj\Debug\baithi.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\obj\Debug\baithi.exe
+C:\Users\acer\Downloads\quynhanh\project\lab1\baithi\obj\Debug\baithi.pdb
